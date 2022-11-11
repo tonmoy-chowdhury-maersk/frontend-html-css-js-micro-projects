@@ -39,3 +39,7 @@ body {
     margin: 0;
     position: absolute;
 }
+
+.panel.active {
+    flex: 5;
+}
