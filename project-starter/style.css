@@ -25,4 +25,5 @@ body {
     background-repeat: no-repeat;
     height: 80vw;
     border-radius: 70px;
+    flex: 0.5;
 }
