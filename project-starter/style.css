@@ -29,6 +29,7 @@ body {
     margin: 10px;
     transition: flex 0.5s ease-in;
     position: relative;
+    cursor: pointer;
 }
 
 .panel h3 {
