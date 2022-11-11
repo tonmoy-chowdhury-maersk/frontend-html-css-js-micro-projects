@@ -24,7 +24,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     height: 80vw;
-    border-radius: 70px;
+    border-radius: 25px;
     flex: 0.5;
     margin: 10px;
     transition: flex 0.5s ease-in;
