@@ -27,4 +27,5 @@ body {
     border-radius: 70px;
     flex: 0.5;
     margin: 10px;
+    transition: flex 0.5s ease-in;
 }
