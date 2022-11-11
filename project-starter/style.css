@@ -26,4 +26,5 @@ body {
     height: 80vw;
     border-radius: 70px;
     flex: 0.5;
+    margin: 10px;
 }
