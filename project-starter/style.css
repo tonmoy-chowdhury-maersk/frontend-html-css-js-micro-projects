@@ -38,8 +38,13 @@ body {
     left: 20px;
     margin: 0;
     position: absolute;
+    opacity: 0;
 }
 
 .panel.active {
     flex: 5;
+}
+
+.panel.active h3 {
+    opacity: 1;
 }
